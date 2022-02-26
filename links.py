@@ -7,6 +7,9 @@ print("\033[31m                                               TOOL BY DARK CYBER
 print("\033[0m")
 os.system("toilet USE ON TOR BROWSER")
 print("\033[32m")
+print("")
+print("DISCLAIMER....>>>THIS SCRIPT ONLY MADE FOR RESEARCHES AND EDUCATIONAL PURPOSES ONLY")
+print("")
 logo = """http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/ – OnionLinks v3
 http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/ – The Hidden Wiki
 http://2jwcnprqbugvyi6ok2h2h7u26qc6j5wxm7feh3znlh2qu3h6hjld4kyd.onion/ – Another Hidden Wiki
